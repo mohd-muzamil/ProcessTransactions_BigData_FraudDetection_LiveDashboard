@@ -9,12 +9,12 @@ Apache Spark will be used to process it during streaming.
 Also working on building an anamoly detection model to flag and alert risky transactions that can be verified later for fraud.
 <hr>
 
-#### Monitoring microservices and logging
+#### Monitoring all the microservices and logging for system health check.
 logging events like health of microservices and training status of ML models
 <hr>
 
 #### Dashboard
-Monitor live stats in the Hive data base
+Monitor live system stats.
 
 
 references:
