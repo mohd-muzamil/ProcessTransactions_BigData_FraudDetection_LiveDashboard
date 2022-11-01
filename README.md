@@ -1,5 +1,4 @@
-(WORK IN PROGRESS.....)
-### Sytem to replicate Transaction Processing using BIG Data and Fraud Detection system using Machine Learning. 
+### Sytem to replicate Transaction Processing using BIG Data and Fraud Detection system using Machine Learning. ( WORK IN PROGRESS..... )
 
 Big Data System to generate fake transaction data (credit &amp; debit) and stream it to HIVE table using Apache Kafka. \
 Apache Spark will be used to process it during streaming.
