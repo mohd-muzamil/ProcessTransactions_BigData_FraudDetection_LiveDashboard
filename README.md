@@ -6,7 +6,7 @@ Apache Spark will be used to process it during streaming.
 <hr>
 
 #### Machine Learning
-Also working on building a anamoly detection model to flag risky transactions that can be verified later for fraud.
+Also working on building an anamoly detection model to flag and alert risky transactions that can be verified later for fraud.
 <hr>
 
 #### Monitoring microservices and logging
